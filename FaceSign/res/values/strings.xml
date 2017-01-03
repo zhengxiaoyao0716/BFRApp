@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">脸谱签到Demo</string>
+    <string name="font">宋体</string>
+    <string name="capture">点击屏幕签到</string>
+    <string name="signedTip">恭喜%1$s：签到成功，工作愉快！</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">脸谱管理</string>
+    <string name="noNetwork">无网络连接！</string>
+    <string name="openNetwork">请打开网络连接后重试</string>
+    <string name="exit">退出</string>
+    <string name="redo">重试</string>
+    <string name="addMember">添加成员</string>
+    <string name="waiting">请稍候。。。</string>
+    <string name="loadFailed">数据加载失败！</string>
+    <string name="font">宋体</string>
+    <string name="failed">失败</string>
+    <!-- 对话框 -->
+    <string name="editTextTip">只允许大、小写字母与数字</string>
+    <string name="deleteMemberTip">确定要删除该成员？</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="addMemberTip">添加一位新成员</string>
+    <string name="add">添加</string>
+    <string name="updateFaceTip">确定要更换这张照片？</string>
+    <string name="update">更换</string>
+    <string name="deleteFaceTip">确定要删除这张照片？</string>
+    <string name="lowFaceNumTip">每个成员至少需要一张照片！</string>
+    <string name="addFaceTip">添加一张新的照片</string>
+    <string name="capture">拍摄</string>
+    <string name="uploadFaceFailed">添加图片失败</string>
+</resources>
